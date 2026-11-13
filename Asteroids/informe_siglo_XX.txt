@@ -1,0 +1,37 @@
+Informe: meteoritos de 1900 a 1999
+==================================
+
+Número de meteoritos: 24976
+Más pesado: Hoba (60,000,000 g)
+Más ligero: Gove (0.0 g)
+Media de masas: 10,025.0 g
+Mediana de masas: 23.0 g
+
+Por estado:
+fall
+Found    24341
+Fell       635
+
+Por continente (%):
+continente
+Sin región           70.3
+Sin coordenadas      10.3
+África                8.8
+América del Norte     4.9
+Oceanía               2.3
+Asia                  1.8
+Europa                1.0
+América del Sur       0.5
+
+Por décadas:
+anio
+1900      139
+1910      154
+1920      159
+1930      309
+1940      196
+1950      212
+1960      397
+1970     4969
+1980     6822
+1990    11619
