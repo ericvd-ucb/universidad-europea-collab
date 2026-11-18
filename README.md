@@ -25,4 +25,13 @@ Análisis de la economía española y europea con datos de Eurostat. La carpeta 
 | [spain_economy_by_term.ipynb](Economia/spain_economy_by_term.ipynb) | Reproduce y contrasta una comparación de indicadores económicos por mandato presidencial en España. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_economy_by_term.ipynb) |
 | [spain_vibecession.ipynb](Economia/spain_vibecession.ipynb) | Explora la relación entre confianza del consumidor e indicadores económicos en España y la zona euro. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_vibecession.ipynb) |
 
+### [Metales](Metales/)
+
+Modelos matemáticos del mecanizado de metales (torneado, fresado, taladrado y vida de la herramienta), basados en las fórmulas del *Metal Cutting Training Handbook* de Sandvik Coromant. La carpeta `metal-cutting-models` contiene el paquete de Python `metalcutting` que usan los ejercicios, junto con sus pruebas y la versión con soluciones.
+
+| Cuaderno | Descripción | Google Colab |
+|---|---|---|
+| [metal_cutting_demo.ipynb](Metales/metal_cutting_demo.ipynb) | Demostración paso a paso de una operación de torneado: velocidad de corte, rpm, avance, tiempo de mecanizado, caudal de viruta, espesor de viruta y fuerza específica de corte. Solo usa Python estándar. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Metales/metal_cutting_demo.ipynb) |
+| [metal_cutting_exercises.ipynb](Metales/metal_cutting_exercises.ipynb) | Ejercicios de torneado, fresado, taladrado, vida de la herramienta y un caso final de planificación, con celdas `check()` que comprueban cada respuesta (tolerancia del 1 %). Requiere el paquete `metalcutting`. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Metales/metal_cutting_exercises.ipynb) |
+
 Los enlaces de Colab abren la versión de la rama `main` en GitHub; los cambios locales deben publicarse para que aparezcan allí.
