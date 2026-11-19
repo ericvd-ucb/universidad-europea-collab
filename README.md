@@ -23,6 +23,7 @@ Análisis de la economía española y europea con datos de Eurostat. La carpeta 
 |---|---|---|
 | [eurostat_gdp_comparison.ipynb](Economia/eurostat_gdp_comparison.ipynb) | Compara el PIB, el crecimiento y el PIB per cápita de economías europeas. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/eurostat_gdp_comparison.ipynb) |
 | [spain_economy_by_term.ipynb](Economia/spain_economy_by_term.ipynb) | Reproduce y contrasta una comparación de indicadores económicos por mandato presidencial en España. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_economy_by_term.ipynb) |
+| [spain_economy_by_term_step_by_step.ipynb](Economia/spain_economy_by_term_step_by_step.ipynb) | Versión paso a paso del cuaderno anterior: el mismo análisis con código más sencillo, una pequeña tarea por celda y funciones cortas. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_economy_by_term_step_by_step.ipynb) |
 | [spain_vibecession.ipynb](Economia/spain_vibecession.ipynb) | Explora la relación entre confianza del consumidor e indicadores económicos en España y la zona euro. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_vibecession.ipynb) |
 
 ### [Metales](Metales/)
