@@ -26,6 +26,16 @@ Análisis de la economía española y europea con datos de Eurostat. La carpeta 
 | [spain_economy_by_term_step_by_step.ipynb](Economia/spain_economy_by_term_step_by_step.ipynb) | Versión paso a paso del cuaderno anterior: el mismo análisis con código más sencillo, una pequeña tarea por celda y funciones cortas. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_economy_by_term_step_by_step.ipynb) |
 | [spain_vibecession.ipynb](Economia/spain_vibecession.ipynb) | Explora la relación entre confianza del consumidor e indicadores económicos en España y la zona euro. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Economia/spain_vibecession.ipynb) |
 
+### [FAS-XAI](FAS-XAI/)
+
+Cuadernos y artículos reproducibles del Dr. Gabriel Marín Díaz (Computación Científica): análisis exploratorio de datos científicos (exoplanetas, Hipparcos-Gaia, meteoritos, terremotos, cráteres de Marte) e inteligencia artificial explicable. Los cuadernos están alojados en Zenodo; la carpeta contiene una ficha con los enlaces.
+
+| Recurso | Descripción | Enlace |
+|---|---|---|
+| FAS-XAI for Interpretable Stellar Population Discovery | Artículo en *AI* (MDPI, 2026): agrupamiento difuso, XAI y análisis espacial de datos de Hipparcos. | [DOI 10.3390/ai7110488](https://doi.org/10.3390/ai7110488) |
+| Python Exercises - EDA | Seis cuadernos de análisis exploratorio: exoplanetas, Hipparcos-Gaia, meteoritos, terremotos y cráteres de Marte. | [Zenodo](https://doi.org/10.5281/zenodo.21276917) |
+| Interpretable Machine Learning - Diabetes | Aprendizaje automático interpretable para predecir diabetes, con visualización HTML interactiva. | [Zenodo](https://doi.org/10.5281/zenodo.19107160) |
+
 ### [Fisica](Fisica/)
 
 Apuntes interactivos de Física del Estado Sólido del Dr. José Manuel López López. La carpeta `images` contiene las figuras que usa el cuaderno.
