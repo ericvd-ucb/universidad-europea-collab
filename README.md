@@ -53,4 +53,12 @@ Modelos matemáticos del mecanizado de metales (torneado, fresado, taladrado y v
 | [metal_cutting_demo.ipynb](Metales/metal_cutting_demo.ipynb) | Demostración paso a paso de una operación de torneado: velocidad de corte, rpm, avance, tiempo de mecanizado, caudal de viruta, espesor de viruta y fuerza específica de corte. Solo usa Python estándar. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Metales/metal_cutting_demo.ipynb) |
 | [metal_cutting_exercises.ipynb](Metales/metal_cutting_exercises.ipynb) | Ejercicios de torneado, fresado, taladrado, vida de la herramienta y un caso final de planificación, con celdas `check()` que comprueban cada respuesta (tolerancia del 1 %). Usa el paquete `metalcutting`; en Colab, la primera celda lo descarga automáticamente. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Metales/metal_cutting_exercises.ipynb) |
 
+### [Taller-IA](Taller-IA/)
+
+Materiales del taller "Jupyter in Teaching: Building with AI" para profesorado STEAM (26 de noviembre de 2026): hoja de prompts, guía de programación en directo, cuaderno de inicio y diapositivas sobre proyectos con datos abiertos.
+
+| Cuaderno | Descripción | Google Colab |
+|---|---|---|
+| [live-coding-starter.ipynb](Taller-IA/live-coding-starter.ipynb) | Diez cosas sencillas en Python, de una calculadora a una tabla y un gráfico. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Taller-IA/live-coding-starter.ipynb) |
+
 Los enlaces de Colab abren la versión de la rama `main` en GitHub; los cambios locales deben publicarse para que aparezcan allí.

@@ -1,0 +1,28 @@
+## A Caution on "Bring Your Own Dataset"
+
+Open-ended projects with student-chosen data often fail:
+
+- Students are not yet reliable judges of data quality
+- Data may be censored, suppressed or incomplete
+- The question may not match what the data can show
+- Weeks are lost to searching and cleaning
+- AI will analyse a poor dataset without objection
+
+::: {.notes}
+- Example of a team discovering the variable they need doesn't exist, week 6
+- Censoring: survivorship, suppressed small counts, top-coding
+- AI can invent datasets
+:::
+
+## Structured Openness
+
+1. **Curated menu:** 5 to 10 vetted datasets, open choice of question
+2. **Data audit milestone:** source, method, gaps, limits
+3. **Question and data fit check:** approved before analysis begins
+
+> Freedom in the question, structure in the data.
+
+::: {.notes}
+- Audit can be AI-assisted, prompt in handout
+- Mention Gabriel's open data courses as a model
+:::
