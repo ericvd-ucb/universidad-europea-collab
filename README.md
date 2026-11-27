@@ -15,6 +15,16 @@ Actividades de análisis de datos de meteoritos para Computación Científica I,
 | [meteoritos_pandas_alumnos.ipynb](Asteroids/meteoritos_pandas_alumnos.ipynb) | Actividades y retos de análisis de meteoritos con pandas. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Asteroids/meteoritos_pandas_alumnos.ipynb) |
 | [meteoritos_pandas_profesor.ipynb](Asteroids/meteoritos_pandas_profesor.ipynb) | Versión con pandas para el profesorado, con soluciones propuestas. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Asteroids/meteoritos_pandas_profesor.ipynb) |
 
+### [BigData](BigData/)
+
+Prácticas de Carlos Toledo para el Máster en Big Data. No son ejercicios de programación: el código viene escrito y lo que se evalúa es el razonamiento sobre los datos. El estudiante predice antes de ejecutar, emite un veredicto cerrado (por ejemplo PASS, FAIL o UNKNOWN) y lo defiende con evidencia, separando lo que demuestran los datos de lo que añade una fuente externa o una IA.
+
+| Cuaderno | Descripción | Google Colab |
+|---|---|---|
+| [PA-02_student.ipynb](BigData/PA-02/student/PA-02_student.ipynb) | Contrato de ingesta: formular afirmaciones comprobables sobre una tabla de tráfico aéreo antes de aceptarla. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/BigData/PA-02/student/PA-02_student.ipynb) |
+| [PA-04_student.ipynb](BigData/PA-04/student/PA-04_student.ipynb) | Qué resumen debe devolver cada partición de un Parquet para que la respuesta global sea correcta (Polars). | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/BigData/PA-04/student/PA-04_student.ipynb) |
+| [PA-06_student.ipynb](BigData/PA-06/student/PA-06_student.ipynb) | Decidir si cinco afirmaciones con la aritmética correcta son comparaciones válidas, citando la documentación del origen. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/BigData/PA-06/student/PA-06_student.ipynb) |
+
 ### [Economia](Economia/)
 
 Análisis de la economía española y europea con datos de Eurostat. La carpeta `ig-imagenes` contiene las imágenes de referencia utilizadas en el cuaderno sobre los mandatos.
