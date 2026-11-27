@@ -65,10 +65,13 @@ Modelos matemáticos del mecanizado de metales (torneado, fresado, taladrado y v
 
 ### [Taller-IA](Taller-IA/)
 
-Materiales del taller "Jupyter in Teaching: Building with AI" para profesorado STEAM (26 de noviembre de 2026): hoja de prompts, guía de programación en directo, cuaderno de inicio y diapositivas sobre proyectos con datos abiertos.
+Materiales del taller "Jupyter in Teaching: Building with AI" para profesorado STEAM (26 de noviembre de 2026): hoja de prompts, guía de programación en directo, cuaderno de inicio y diapositivas sobre proyectos con datos abiertos. Los materiales están en inglés.
 
-| Cuaderno | Descripción | Google Colab |
+| Archivo | Descripción | Google Colab |
 |---|---|---|
-| [live-coding-starter.ipynb](Taller-IA/live-coding-starter.ipynb) | Diez cosas sencillas en Python, de una calculadora a una tabla y un gráfico. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Taller-IA/live-coding-starter.ipynb) |
+| [prompt-sheet.md](Taller-IA/prompt-sheet.md) | Hoja de prompts para crear, mejorar, evaluar y revisar cuadernos con IA, con ejemplos por disciplina STEAM y modelos de proyectos (ABP). | |
+| [live-coding-cheatsheet.md](Taller-IA/live-coding-cheatsheet.md) | Diez cosas sencillas en Python y cinco en Markdown para una demostración en un cuaderno en blanco. | |
+| [live-coding-starter.ipynb](Taller-IA/live-coding-starter.ipynb) | Las diez cosas en Python como cuaderno listo para ejecutar. | [Abrir en Colab](https://colab.research.google.com/github/ericvd-ucb/universidad-europea-collab/blob/main/Taller-IA/live-coding-starter.ipynb) |
+| [open-data-warning-slides.qmd](Taller-IA/open-data-warning-slides.qmd) | Dos diapositivas de Quarto sobre los riesgos de los proyectos con datos elegidos por los estudiantes. | |
 
 Los enlaces de Colab abren la versión de la rama `main` en GitHub; los cambios locales deben publicarse para que aparezcan allí.
